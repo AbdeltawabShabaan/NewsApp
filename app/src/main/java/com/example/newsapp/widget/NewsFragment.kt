@@ -146,7 +146,7 @@ fun getNewsBySource(sourcesItem: SourcesItem,newsResponseState: MutableState<Lis
             }
 
             override fun onFailure(call: Call<NewsResponse>, t: Throwable) {
-                TODO("Not yet implemented")
+
             }
 
         })
