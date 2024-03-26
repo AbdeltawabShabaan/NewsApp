@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="news_app">News App</string>
+    <string name="text_categories">فئات</string>
+    <string name="text_setting">الاعدادات</string>
+    <string name="sports">الرياضة</string>
+    <string name="technology">التكنولوجيا</string>
+    <string name="business">الاعمال</string>
+    <string name="general">عام</string>
+    <string name="health">الصحة</string>
+    <string name="science">العلوم</string>
+    <string name="en_text">الانجليزية</string>
+    <string name="ar_text">العربية</string>
+    <string name="text_language">اللغة</string>
+    <string name="pick_your_category">اختر فئة اهتمامك</string>
+
+</resources>
